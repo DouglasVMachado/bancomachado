@@ -22,7 +22,7 @@ public class SavingsAccount {
 
     private int account;
 
-    private Long balance;
+    private Double balance;
 
 
 
