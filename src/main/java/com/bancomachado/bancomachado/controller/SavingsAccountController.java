@@ -1,7 +1,7 @@
 package com.bancomachado.bancomachado.controller;
 
 
-import com.bancomachado.bancomachado.SavingsAccountMapper;
+import com.bancomachado.bancomachado.Mapper.SavingsAccountMapper;
 import com.bancomachado.bancomachado.controller.Response.SavingsAccountResponse;
 import com.bancomachado.bancomachado.controller.request.SavingsAccountRequest;
 import com.bancomachado.bancomachado.entity.SavingsAccount;
