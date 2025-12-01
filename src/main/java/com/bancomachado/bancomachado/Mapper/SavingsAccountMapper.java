@@ -1,4 +1,4 @@
-package com.bancomachado.bancomachado;
+package com.bancomachado.bancomachado.Mapper;
 
 import com.bancomachado.bancomachado.controller.Response.SavingsAccountResponse;
 import com.bancomachado.bancomachado.controller.request.SavingsAccountRequest;
